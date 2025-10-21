@@ -1,0 +1,12 @@
+.hero-gradient {
+  background: linear-gradient(135deg, #007bff, #ff69b4);
+  color: white;
+  text-align: center;
+  padding: 5rem 1rem;
+}
+
+.hero-gradient img {
+  max-width: 100%;
+  height: auto;
+  margin-top: 2rem;
+}
